@@ -1,1 +1,1 @@
-![Image Description](Screenshots/portfolio.png)
+![Screenshot of My Portfolio](portfolio_Screenshots.png)
